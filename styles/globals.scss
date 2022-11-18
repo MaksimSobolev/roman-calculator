@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+a,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+body {
+  display: grid;
+  justify-content: center;
+}
